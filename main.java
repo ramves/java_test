@@ -3,5 +3,6 @@ public class main {
         System.out.println("Hello, Jenkins!");
         System.out.println("This is a simple Java program.");
         System.out.println("It prints multiple lines to the console.");
+        System.out.println("End of the program.")
     }
 }
